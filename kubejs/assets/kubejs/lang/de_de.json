@@ -44,7 +44,7 @@
 	
 	"atm9.quest.welcome.welcome": "Wilkommen zu All The Mods 9 now in the sky!",
 	
-	"atm9.quest.welcome.desc.welcome": "Wilkommen zu ATM9... Jetzt mit weniger Bodenbelag! \\n \\n Um mit dem Questen anzufangen, schaut euch die Registerkarten auf der linken Seite an, um einzusteigen! \\n \\n Wenn du neu bei AllTheMods bist, sieh dir unbedingt das &aAllTheModium&r Kapitel an! \\\n \\\n Wenn du neu bei Skyblock Packs oder modded MC bist, schau dir die &6Main Questline&r an, um dir den Einstieg zu erleichtern. \\n \\n Hinweis: Mods werden nicht durch Quests gesteuert. Quests sind optional.“,
+	"atm9.quest.welcome.desc.welcome": "Welcome to ATM9... Now With less flooring! \\n \\n To get started with questing, check out the tabs on the left to jump in! \\n \\n If you are new to AllTheMods, make sure to check out the &aAllTheModium&r Chapter! \\n \\n If you are new to Skyblock packs or modded MC, check out the &6Main Questline&r to help you get started. \\n \\n Note:  Mods are not gated by quests. Quests are optional."
 	
 	
 	"atm9.quest.allthemodium.intro": "Intro to Allthemodium!",
@@ -65,9 +65,9 @@
 	"atm9.quest.allthemodium.carrot": "AllTheModium Karotte",
 	"atm9.quest.allthemodium.apple": "AllTheModium Apfel",
 	
-	"atm9.quest.allthemodium.desc.intro1": "&dAllthemodium&r is the core mod in all Allthemods modpacks. This mod adds endgame ores to the world that amplify your modded experience. In 9sky however, you get this a little differently than you normally would.",
-	"atm9.quest.allthemodium.desc.pulv": "The pulverizer is going to be your first step to making a soul infused ingot needed for Allthemodium. Pulverize some tin to get apatite, then pulverize some soul sand to get soul sand dust!",
-	"atm9.quest.allthemodium.desc.soulinfused": "Make some soul infused dust first, then smelt it",
+	"atm9.quest.allthemodium.desc.intro1": "&dAllthemodium&r ist die Hauptmod in allen Allthemods-Modpacks. Diese Mod fügt der Welt Endgame-Erze hinzu, die deine mod Erfahrung verbessern. In 9sky jedoch, erhalten Sie diese ein wenig anders als Sie normalerweise.",
+	"atm9.quest.allthemodium.desc.pulv": "Der Pulverisierer ist der erste Schritt zur Herstellung eines Seelenbarrens, der für Allthemodium benötigt wird. Pulverisiere etwas Zinn, um Apatit zu erhalten, dann pulverisiere etwas Seelensand, um Seelensandstaub zu erhalten!",
+	"atm9.quest.allthemodium.desc.soulinfused": "Mache zuerst etwas seeleninfundiertes Pulver und schmelze es dann.",
 	"atm9.quest.allthemodium.desc.arcane": "You will need some arcane crystal dust for Allthemodium, and it isn't common. Go ahead and sieve a bunch of dust for it (Iron/Diamond Mesh).",
 	"atm9.quest.allthemodium.desc.Mundabitur": "Mundabitur dust is really annoying to craft, so I recommend just looting it from end cities.",
 	"atm9.quest.allthemodium.desc.Powah": "The nitro crystal is the hardest part of making allthemodium. You must progress through the &6Powah&r mod to get this. Go visit the questline! \\n \\nNote: Energizing through powah is how you actually craft the Allthemodium Ingot.",
